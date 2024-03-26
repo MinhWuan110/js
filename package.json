@@ -1,0 +1,17 @@
+{
+  "name": "duan1",
+  "version": "1.0.0",
+  "description": "day la du an 1 ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  }
+}
